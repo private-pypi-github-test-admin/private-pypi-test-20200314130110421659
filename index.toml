@@ -1,0 +1,12 @@
+[[pkgs]]
+type = "github"
+distrib = "fbivak4zeau5mhzuyjff6m"
+package = "fbiVAK4ZEau5mhzuyJFf6M-1.0-py3-none-any"
+ext = "whl"
+sha256 = "4c2787ec34a8e650aa24d3191c8d369414d2d3088c21d71aa5b50b4d6cb340d9"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200314130110421659/releases/assets/18702588"
+
+[pkgs.meta]
+name = "fbiVAK4ZEau5mhzuyJFf6M"
+distrib = "fbivak4zeau5mhzuyjff6m"
+sha256 = "4c2787ec34a8e650aa24d3191c8d369414d2d3088c21d71aa5b50b4d6cb340d9"
